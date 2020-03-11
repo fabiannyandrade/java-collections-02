@@ -31,7 +31,6 @@ public class Main {
 			mapa.put("ITA", "Itajuba");
 			mapa.put("ZORO", "Conçeicao dos Ouros");
 			mapa.put("CAXU", "Cachoeira de Minas");
-			
 			System.out.println("cheguei no fim to try");
 		} catch (Exception e) {
 			System.out.println("ocorreu uma exceção");
